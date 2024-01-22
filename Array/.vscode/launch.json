@@ -1,0 +1,239 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Generate_nxn_matrix",
+            "request": "launch",
+            "mainClass": "multidimensionalArray.Generate_nxn_matrix",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "Spiral_order",
+            "request": "launch",
+            "mainClass": "Spiral_order",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "Spiral_order",
+            "request": "launch",
+            "mainClass": "multidimensionalArray.Spiral_order",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "RotateMatrixUsing_Packege",
+            "request": "launch",
+            "mainClass": "multidimensionalArray.RotateMatrixUsing_Packege",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "check",
+            "request": "launch",
+            "mainClass": "multidimensionalArray.check",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "RotateSquareMatrix_on90Degree",
+            "request": "launch",
+            "mainClass": "multidimensionalArray.RotateSquareMatrix_on90Degree",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "TransposesOf_Matrix",
+            "request": "launch",
+            "mainClass": "multidimensionalArray.TransposesOf_Matrix",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "multiplicationOFtowMatrix",
+            "request": "launch",
+            "mainClass": "multidimensionalArray.multiplicationOFtowMatrix",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "AddTwoMatrix",
+            "request": "launch",
+            "mainClass": "multidimensionalArray.AddTwoMatrix",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "TwoD_array",
+            "request": "launch",
+            "mainClass": "multidimensionalArray.TwoD_array",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "TwoD_array",
+            "request": "launch",
+            "mainClass": "TwoD_array",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "Median",
+            "request": "launch",
+            "mainClass": "Median",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "SuffleArray",
+            "request": "launch",
+            "mainClass": "SuffleArray",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "deleteElement",
+            "request": "launch",
+            "mainClass": "deleteElement",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "OccuranceElement",
+            "request": "launch",
+            "mainClass": "OccuranceElement",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "LargestAndSmallest_Element",
+            "request": "launch",
+            "mainClass": "LargestAndSmallest_Element",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "Peak_element",
+            "request": "launch",
+            "mainClass": "Peak_element",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDeclation",
+            "request": "launch",
+            "mainClass": "ArrayDeclation",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "SortingArray_Even",
+            "request": "launch",
+            "mainClass": "SortingArray_Even",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "SortingArray",
+            "request": "launch",
+            "mainClass": "SortingArray",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "LargestElement",
+            "request": "launch",
+            "mainClass": "LargestElement",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "Arr",
+            "request": "launch",
+            "mainClass": "Arr",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "SecondLargest_array",
+            "request": "launch",
+            "mainClass": "SecondLargest_array",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "length",
+            "request": "launch",
+            "mainClass": "length",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "Returing_Arrary",
+            "request": "launch",
+            "mainClass": "Returing_Arrary",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "Passing_array",
+            "request": "launch",
+            "mainClass": "Passing_array",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "Array_initializer",
+            "request": "launch",
+            "mainClass": "Array_initializer",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "defaultValue",
+            "request": "launch",
+            "mainClass": "defaultValue",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "initializationArray",
+            "request": "launch",
+            "mainClass": "initializationArray",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "Null_value",
+            "request": "launch",
+            "mainClass": "Null_value",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "Exceeding_arrayBounda",
+            "request": "launch",
+            "mainClass": "Exceeding_arrayBounda",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "Anonymous_array",
+            "request": "launch",
+            "mainClass": "Anonymous_array",
+            "projectName": "Array_6f4ed497"
+        },
+        {
+            "type": "java",
+            "name": "Three_D",
+            "request": "launch",
+            "mainClass": "Three_D",
+            "projectName": "Array_6f4ed497"
+        }
+    ]
+}
